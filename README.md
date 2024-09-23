@@ -10,4 +10,4 @@ docker compose up --build --force-recreate --no-deps
 ```
 4. If script is not enabled in Splunk, follow instructions to add data source as Script
 5. Watch the logs pile in :)
-
+![image](https://github.com/user-attachments/assets/c56ea289-9852-40f0-8a5f-b35bc7b863e7)
